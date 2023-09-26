@@ -1,0 +1,6 @@
+pillow==9.5.0
+ultralytics==8.0.112
+keras-facenet==0.3.2
+supervision==0.8.0
+opencv-python==4.7.0.72
+tensorflow
